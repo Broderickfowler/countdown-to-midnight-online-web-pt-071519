@@ -1,4 +1,4 @@
-def countdown_with_sleep()
+def countdown_with_sleep(n)
   count = sleep 5
 end
 
