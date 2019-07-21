@@ -4,4 +4,6 @@ countdown = 0
 def countdown
   while countdown 
   puts "#{number} SECOND(S)!"
+  
+  until countdown
 end
