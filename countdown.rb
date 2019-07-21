@@ -3,4 +3,5 @@ countdown = 0
 
 def countdown
   while countdown
+  puts ""
 end
