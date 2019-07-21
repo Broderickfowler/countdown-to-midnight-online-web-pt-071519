@@ -8,6 +8,5 @@ end
 
 
     
-    until number == 
-  end
+    
 
