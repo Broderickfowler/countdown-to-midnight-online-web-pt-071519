@@ -1,5 +1,6 @@
 def countdown_with_sleep(n)
-  count = sleep 5
+  while n > 0
+
 end
 
 
